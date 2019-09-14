@@ -1,0 +1,29 @@
+indexOf()
+match()
+replace()
+split()
+toUpperLowerCase()
+
+function MyFuction(){
+var str = "djrkgdrilgjidrj djgk"
+var pos = str.indexOf("d)
+document.getElementById(demo).innerHTML=pos
+
+function myFunc(){
+var str = "kldgj iodfhftoi ckgjfi bbb bb"
+var res = str.match(/k/g)
+document.getElementById(demo).innerHTML=res
+}
+function myFun(){
+var str = document.getElemetById(demo).innerHTML
+var txt = str.replace('gf', 'fg')
+document.getElementById(demo)innerHtml=txt
+Objects
+var per{
+gkdfljg: ""
+}
+per.jgdklj
+
+function myf(name, job){
+document.getElemetById(demo).innerHTML=jkdjk+ name+job
+}
